@@ -14,4 +14,5 @@ export type GameState = {
   currentPiece: Tetromino | null;
   score: number;
   gameOver: boolean;
+  isPaused:boolean;
 };
