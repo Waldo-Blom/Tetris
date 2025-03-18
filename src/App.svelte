@@ -275,6 +275,7 @@
     padding: 20px;
     border-radius: 10px;
     text-align: center;
+    z-index: 9999;
   }
 
   button {
