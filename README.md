@@ -8,6 +8,7 @@ This repo is used by me to learn Typescript and Svelte
 - [ ] Blocks overlap when the down arrow is used too fast
 -- This is not due to the down fuction maybe??The problem lies within the merge board logic, the merged piece is not added to the new board for some reason???
 -- The problem also occurs with the left and right
+-- I think the problem has to do with validitating the correct move (see game.ts - isValidMove function)
 
 
 
